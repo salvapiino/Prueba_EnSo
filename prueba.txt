@@ -4,3 +4,4 @@ Conectando Taiga
 con Github -> no funcionó
 
 mas cambios
+sigue sin ir
