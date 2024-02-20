@@ -1,4 +1,4 @@
 inicio
 
 Conectando Taiga
-con Github
+con Github -> no funcionó
